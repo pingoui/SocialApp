@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_house" type="id" />
+    <item name="ic_search" type="id" />
+    <item name="ic_profile" type="id" />
+    <item name="ic_add" type="id" />
+</resources>
